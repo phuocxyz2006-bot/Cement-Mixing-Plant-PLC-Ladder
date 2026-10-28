@@ -1,4 +1,4 @@
-# cement-mixing-plant
+# Cement-Mixing-Plant
 # 📦 Hệ Thống Cân Định Lượng & Phối Trộn Nguyên Liệu Tự Động (TIA Portal)
 
 Dự án thiết kế và lập trình điều khiển tự động hệ thống cân định lượng và phối trộn 4 thành phần nguyên liệu (Đá vôi, Đất sét, Quặng, Phụ gia) sử dụng PLC Siemens và giao diện giám sát WinCC/HMI. 
